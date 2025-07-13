@@ -123,8 +123,8 @@
             #endregion
 
             #region Ornek-4
-            string ad = "Fatih";
-            string soyad = "Alkan";
+            string ad = "Mert";
+            string soyad = "Bal";
 
             string tamIsim = ad + " " + soyad;
             Console.WriteLine(tamIsim);
@@ -147,7 +147,7 @@
             #region Ornek-7
             //(+) Birleştirme Operatörü
 
-            string name2 = "Fatih";
+            string name2 = "Mert";
             int age = 37;
 
             //Birleştirme Operatörü
